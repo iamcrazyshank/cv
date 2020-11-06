@@ -9,7 +9,7 @@ Having 3 years of experience in developing industry-standard mobile and enterpri
 Highly proficient in object-oriented methodologies, design patterns, data structures, algorithms, quality coding skills, excellent debugging skills, and a good understanding of Apple’s design principles and scrum-based AGILE methodologies.
 <br> 
 ## ✍🏼  Skills
-### Highlights	: 
+#### Highlights	: 
 ![](https://img.shields.io/static/v1?label=Swift&message=5&color=brightgreen) 
 ![](https://img.shields.io/static/v1?label=Swift&message=4&color=bluevoilet) 
 ![](https://img.shields.io/static/v1?label=Python&message=3&color=yellow)
@@ -19,11 +19,11 @@ Highly proficient in object-oriented methodologies, design patterns, data struct
 ![](https://img.shields.io/static/v1?label=Angular&message=JS&color=orange) 
 ![](https://img.shields.io/static/v1?label=MySQL&message=""&color=red) 
 ![](https://img.shields.io/static/v1?label=GIT&message=""&color=critical)
-### Programming Lang	: 
+#### Programming Lang	: 
 C | C++ | Objective-C | Swift 4 | Swift 5 | Python 3 |  JavaScript |  Angular JS | IONIC 4 | HTML |  CSS |  JSON |  PHP |  MySQL
-### Software Tools	: 
+#### Software Tools	: 
 XCode | Visual Code |  GIT |  Flask |  Jenkins | Conda | iOS SDK | REST APIs | Almofire | OAuth | AWS CloudEC2 | S3
-### Programming Skills	: 
+#### Programming Skills	: 
 Auto-layout | UIKit | MapKit | Animation | Core Data | Networking | CocoaPods | Cocoa Touch | MVC | MVVM | Front-End Development | Web Services API Design | Data Structures
 
 
@@ -82,8 +82,16 @@ __An iOS application for booking bikes from metro stations. It has features such
 __Developed an Auditing portal for Wipro COE using Web technologies__
 - LPA is Web Application where the Business user is enabled with all details of the tasks or audits pending or which are still open. Enables CRUD operations i.e. create, read, update and delete on database available to Admin/Audit user
 - Developed the Front-end dynamic portal using Angular JS, HTML, CSS and NodeJS.
-<br>
-    
+
+
+## 🏃 Certifications & Others
+
+- __Certificate:__ Mobile application development by SINE IIT BOMBAY	July 2015
+- __Achievement:__ Runner up at RoboTryst 2014, National Level Championship organized by Robosapiens Technologies representing the CSE department NMIT.
+- __Volunteer:__ Volunteered for Sandalwood Society of India (Developed a web tool).	
+- __Hobbies & Interests:__ Traveling, Cooking, Football, Binge Watcher, Video games (FIFA 20), up-to-date reader of TechBlogs
+
+
 ## GitHub Stats
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=iamcrazyshank&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcrazyshank&layout=compact)
