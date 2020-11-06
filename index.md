@@ -9,7 +9,22 @@ Having 3 years of experience in developing industry-standard mobile and enterpri
 Highly proficient in object-oriented methodologies, design patterns, data structures, algorithms, quality coding skills, excellent debugging skills, and a good understanding of Apple’s design principles and scrum-based AGILE methodologies.
 <br> 
 ## ✍🏼  Skills
-![](https://img.shields.io/static/v1?label=swift&message=5&color=red)
+### Highlights	: 
+![](https://img.shields.io/static/v1?label=Swift&message=5&color=brightgreen) 
+![](https://img.shields.io/static/v1?label=Swift&message=4&color=bluevoilet) 
+![](https://img.shields.io/static/v1?label=Python&message=3&color=yellow)
+![](https://img.shields.io/static/v1?label=Objective&message=C&color=red)
+![](https://img.shields.io/static/v1?label=HTML&message=5&color=blue) 
+![](https://img.shields.io/static/v1?label=IONIC&message=4&color=bluevoilet) 
+![](https://img.shields.io/static/v1?label=Angular&message=JS&color=orange) 
+![](https://img.shields.io/static/v1?label=MySQL&message=""&color=red) 
+![](https://img.shields.io/static/v1?label=GIT&message=""&color=critical)
+### Programming Lang	: 
+C | C++ | Objective-C | Swift 4 | Swift 5 | Python 3 |  JavaScript |  Angular JS | IONIC 4 | HTML |  CSS |  JSON |  PHP |  MySQL
+### Software Tools	: 
+XCode | Visual Code |  GIT |  Flask |  Jenkins | Conda | iOS SDK | REST APIs | Almofire | OAuth | AWS CloudEC2 | S3
+### Programming Skills	: 
+Auto-layout | UIKit | MapKit | Animation | Core Data | Networking | CocoaPods | Cocoa Touch | MVC | MVVM | Front-End Development | Web Services API Design | Data Structures
 
 
 ## 💻 Work Experience
