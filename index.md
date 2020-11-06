@@ -37,7 +37,7 @@ Developer of Wipro's "Center of Excellence" team(SANGAM).
  - Worked with memory management (UserDefaults), UI layout(Auto-Layout) and network performance
 
     
-## :bowing_man:Project Details
+## 🙇🏻 Project Details
 
 ### __1. Loca Rides (iOS Application)__
 __Loca is a taxi booking iOS application for very short rides. This app is designed taking care of the UI/UX design guidelines and optimized to ensure fast and smooth service to the user. This is a Live ongoing project, which has 3rd party integrations such as Google maps, Direction API, Payment Gateway and Push notifications.__
