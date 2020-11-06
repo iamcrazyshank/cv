@@ -1,4 +1,4 @@
-# Shashank Chandran <img src="https://raw.githubusercontent.com/iamcrazyshank/cv/gh-pages/wave.gif" width="50px">
+# Shashank Chandran <img src="https://raw.githubusercontent.com/iamcrazyshank/cv/gh-pages/dev_gif.gif" width="90px">
 
 _Software developer based in Cork, Ireland_ <br>
 [Email](mailto:shashankchandran1994@gmail.com) / [LinkedIn](http://www.linkedin.com/in/shashankchandran/) / [GitHub](https://github.com/iamcrazyshank/)
