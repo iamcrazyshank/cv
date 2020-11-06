@@ -1,6 +1,6 @@
 # Shashank Chandran
 
-_Software developer based in Cork, Ireland_ <br>
+Software developer based in Cork, Ireland
 
 
 
