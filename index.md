@@ -7,10 +7,11 @@ _Software developer based in Cork, Ireland_ <br>
 Having 3 years of experience in developing industry-standard mobile and enterprise applications with proficiency in iOS mobile application development with Swift 4/5, 3rd party frameworks such as Google Maps/ Firebase messaging, Payment gateway integrations, Push-notification, Social Network integrations, And Hybrid mobile application development using IONIC 4 framework & Angular JS. 
 
 Highly proficient in object-oriented methodologies, design patterns, data structures, algorithms, quality coding skills, excellent debugging skills, and a good understanding of Apple’s design principles and scrum-based AGILE methodologies.
-```diff
-! Visa Status	: Stamp 1G (Irish Work Permit valid till 2022)
-+ Recent Education : Master's Degree in Computer Science from University College Cork, Ireland
-```
+
+__Visa Status	: Stamp 1G (Irish Work Permit valid till 2022)__
+
+__Recent Education : Master's Degree in Computer Science from University College Cork, Ireland__
+
 
 ## ✍🏼  Skills
 #### Highlights	: 
