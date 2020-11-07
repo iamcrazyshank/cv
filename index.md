@@ -41,13 +41,13 @@ Early-stage startup focused on First mile- last mile taxi service.
   - Used Scrum Agile Methodology in App Development & Delivery (Daily Scrum Meeting, Sprint Backlog, Stand-up)
   - Complete detailed programming using Swift 4/5(IDE: Xcode) and distributed an iOS App on the App Store
   - As a Mobile Engineer, also responsible for exhibiting uncompromising work ethic and professionalism in a manner that results in consistent success.
-  - Involved in every project phase, from concept creation to App store deployment
+  - Worked on the project from initiation to App store deployment.
   - Helped Post-Production support and bug fixes.
   - Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing using Jenkins and Calabash.<br> 
  
 __Project Engineer (Hybrid Web/iOS Mobile Application Developer)__ @ __[Wipro Technologies(Digital)](http://https://www.wipro.com/) _(June 2016 - June 2018)___<br>
 Developer of Wipro's "Center of Excellence" team(SANGAM).
- - Accountable for the successful delivery and implementation of mobile projects involving multiple back-end systems, as well as new technologies / innovations.
+ - Accountable for the successful delivery and implementation of enterprise-scale mobile projects involving multiple teams, tools, as well as new technologies / innovations.
  - Worked closely with product managers and designers to define a rich iOS UI/UX.
  - Work with senior developers to develop project concepts in native iOS as well as Hybrid mobile applications and maintain optimal workflow.
  - Planning and designing wireframe in MVC(MVVM) design architecture, Cocoa Design Patterns, and implemented concepts like delegation, protocols and categories.
