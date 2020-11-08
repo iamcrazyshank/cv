@@ -43,6 +43,7 @@ Early-stage startup focused on First mile- last mile taxi service.
   - As a Mobile Engineer, also responsible for exhibiting uncompromising work ethic and professionalism in a manner that results in consistent success.
   - Worked on the project from initiation to App store deployment.
   - Helped Post-Production support and bug fixes.
+  - Worked with memory management (UserDefaults), UI layout(Auto-Layout) and network performance
   - Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing using Jenkins and Calabash.<br> 
  
 __Project Engineer (Hybrid Web/iOS Mobile Application Developer)__ @ __[Wipro Technologies(Digital)](http://https://www.wipro.com/) _(June 2016 - June 2018)___<br>
@@ -54,7 +55,7 @@ Developer of Wipro's "Center of Excellence" team(SANGAM).
  - Using Swift 4 and Objective - C to develop state-of-the-art native iOS mobile applications for Apple App Store.
  - Good hands-on knowledge of Source Code Management (Version Control System) tools like Git.
  - Experience with asynchronous, non-blocking HTTP communication with RESTful APIs (Web Services).
- - Worked with memory management (UserDefaults), UI layout(Auto-Layout) and network performance
+ - Developed Hybrid Mobile Application for Android and IOS platform in IONIC v4 framework (Cordova) using Angular JS, typescript, HTML 5 and SCSS.
 
     
 ## 🙇🏻 Project Details
@@ -85,9 +86,9 @@ __An iOS application for booking bikes from metro stations. It has features such
 
 ### __5. LPA Auditing Web/Mobile Application (Hybrid Web/Mobile Application)__
 __Developed an Auditing portal for Wipro COE using Web technologies__
-- LPA is Web Application where the Business user is enabled with all details of the tasks or audits pending or which are still open. Enables CRUD operations i.e. create, read, update and delete on database available to Admin/Audit user
-- Developed the mobile application for Android and IOS platform using Ionic v4 framework using typescript, Angular JS, CSS3 and HTML.
+- LPA is Web Application where the Business user is enabled with all details of the tasks or audits pending or which are still open. Enables CRUD operations i.e. create, read, update and delete on database available to Admin/Audit user.
 - Used AngularJS components like Controllers, Directives, Providers to create a Single Page Application.
+- Developed the mobile application for Android and IOS platform using Ionic v4 framework using typescript, Angular JS, CSS3 and HTML.
 
 
 
