@@ -86,7 +86,9 @@ __An iOS application for booking bikes from metro stations. It has features such
 ### __5. LPA Auditing Web/Mobile Application (Hybrid Web/Mobile Application)__
 __Developed an Auditing portal for Wipro COE using Web technologies__
 - LPA is Web Application where the Business user is enabled with all details of the tasks or audits pending or which are still open. Enables CRUD operations i.e. create, read, update and delete on database available to Admin/Audit user
-- Developed the Front-end dynamic portal using Angular JS, HTML, CSS and NodeJS.
+- Developed the mobile application for Android and IOS platform using Ionic v4 framework using typescript, Angular JS, CSS3 and HTML.
+- Used AngularJS components like Controllers, Directives, Providers to create a Single Page Application.
+
 
 
 ## 🏃 Certifications & Others
