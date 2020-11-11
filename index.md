@@ -60,7 +60,7 @@ Developer of Wipro's "Center of Excellence" team(SANGAM).
     
 ## 🙇🏻 Project Details
 
-### __1. Loca Rides (iOS Application)__
+### __1. Loca Rides (iOS Application)__ [AppStore Link](https://apps.apple.com/in/app/loca-rides/id1451572718?mt=8)
 __Loca is a taxi booking iOS application for very short rides. This app is designed taking care of the UI/UX design guidelines and optimized to ensure fast and smooth service to the user. This is a Live ongoing project, which has 3rd party integrations such as Google maps, Direction API, Payment Gateway and Push notifications.__
 - Developed using Swift 4/5 with 3rd party payment gateway integrations (RazarPay, AmazonApay) and Google Maps API, Directions API and Push Notifications and MVC architecture. 
 - Carry out performance/UNIT testing and memory optimization with Calabash and Instruments.
