@@ -45,7 +45,7 @@ Early-stage startup focused on First mile- last mile taxi service.
   - Worked on the project from initiation to App store deployment.
   - Helped Post-Production support and bug fixes.
   - Worked with memory management (UserDefaults), UI layout(Auto-Layout) and network performance
-  - Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing automation testing using Jenkins and Calabash.<br> 
+  - Improved product quality through code reviews, writing effective unit tests and collaborating with QA on implementing testing using CI/CD pipeline Jenkins and Calabash.<br> 
  
 __Project Engineer (Hybrid Web/iOS Mobile Application Developer)__ @ __[Wipro Technologies(Digital)](http://https://www.wipro.com/) _(June 2016 - June 2018)___<br>
 Developer of Wipro's "Center of Excellence" team(SANGAM).
