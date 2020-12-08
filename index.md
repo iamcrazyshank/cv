@@ -4,9 +4,10 @@ _Software developer based in Cork, Ireland_ <br>
 [Email](mailto:shashankchandran1994@gmail.com) / [LinkedIn](http://www.linkedin.com/in/shashankchandran/) / [GitHub](https://github.com/iamcrazyshank/)
 <br> 
 ## 👨‍🦱Profile Summary
-Having 3 years of experience in developing industry-standard mobile and enterprise applications with proficiency in iOS mobile application development with Swift 4/5, 3rd party frameworks such as Google Maps/ Firebase messaging, Payment gateway integrations, Push-notification, Social Network integrations, And Hybrid mobile application development using IONIC 4 framework & Angular JS. 
+Enthusiastic software engineer with 3 years of experience in developing industry-standard mobile/web and enterprise applications with proficiency in iOS mobile application development with Swift 4/5, 3rd party frameworks such as Google Maps API/ Firebase messaging, Payment gateway integrations, Push-notification, Social Network integrations, And Hybrid mobile application development using IONIC v4 framework & Angular JS. 
 
-Highly proficient in object-oriented methodologies, design patterns, data structures, algorithms, quality coding skills, excellent debugging skills, and a good understanding of Apple’s design principles and scrum-based AGILE methodologies.
+Highly proficient in object-oriented methodologies, design patterns, data structures, algorithms, quality coding skills, excellent debugging skills, and a good understanding of Apple’s design principles and scrum-based AGILE methodologies. Follower of good engineering practices such as test-driven design, pair programming, continuous integration, and refactoring. Committed to good coding principles such as SOLID, DRY and YAGNI.
+
 
 __Visa Status	: Stamp 1G (Irish Work Permit valid till 2022)__
 
